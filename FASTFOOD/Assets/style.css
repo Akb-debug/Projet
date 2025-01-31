@@ -1,0 +1,92 @@
+.Fast {
+    color: white;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+.Food{
+    color: red;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
+.appel {
+    color:black;
+    background-color: white;
+    border-radius: 10%;
+    border-color: white;
+}
+.acueilCenter{
+
+color: #000;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+padding-bottom: 50px;
+}
+.boutonAligner{
+    margin: 0 auto;
+    display: flex;
+    padding-bottom: 50px;
+    gap : 30px;
+  
+    
+
+}
+.alignerelement{
+    display: line;
+    gap : 10px;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    border-color:none;
+
+    
+}
+.alignerelement:hover{
+    background-color: aqua;
+    color: red;
+}
+
+
+
+
+.aligne{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border-color:none;
+    background-color: black;
+    color: white;
+}
+.alignerimg{
+    display: flex;
+    gap: 10px;
+
+}
+.superposition{
+    display: flex;
+    gap : 100px;
+}
+
+
+a:hover{
+    color: rgb(255, 196, 0);
+    background-color: white;
+    border-radius: 5px;
+}
+
+input {
+    border: 1 px solid orange}
+
+body{
+    background: linear-gradient(45deg, white 40%, orange 60%);
+    margin:  0 auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table{
+    background-color: rgba(255, 255, 255, 0.5) !important;
+}
